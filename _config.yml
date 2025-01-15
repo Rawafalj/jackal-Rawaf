@@ -67,3 +67,5 @@ exclude:
 gems:
   - jekyll-paginate
 
+plugins:
+  - jekyll-paginate
